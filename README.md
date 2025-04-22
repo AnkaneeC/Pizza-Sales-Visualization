@@ -2,7 +2,7 @@
 
 Content:
 =========
-This dataset contains sales data of a pizza parlour.
+This Power BI dashboard provides a detailed overview of sales performance for a pizza company. It consolidates key performance indicators (KPIs), order trends, product performance, and category-based sales data to aid in decision-making and strategic planning.
 
 Columns:
 ===========
